@@ -111,7 +111,7 @@ requirements.txt
 Clone the repository:
 
 ```powershell
-git clone https://github.com/YOUR-USERNAME/Kasas-Inventory-Tracker.git
+git clone https://github.com/KasaNyaa/Kasas-Inventory-Tracker.git
 cd Kasas-Inventory-Tracker
 ```
 
