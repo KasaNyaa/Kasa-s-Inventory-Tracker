@@ -1,0 +1,29 @@
+# Secrets
+.env
+
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Runtime/private bot data
+inventory.json
+display_state.json
+trade_history.json
+
+# Inventory backups
+inventory_backup*.json
+
+# Local configuration
+config.json
+
+# IDE files
+.vscode/
+.idea/
+
+# Windows/macOS junk
+Thumbs.db
+.DS_Store
